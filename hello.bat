@@ -1,1 +1,1 @@
-Hello World bubg
+echo "Hello World bubg"
