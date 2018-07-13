@@ -1,1 +1,1 @@
-echo "Hello GIT Webhook"
+echo "Hello GIT Webhooks"
